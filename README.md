@@ -9,6 +9,7 @@ This repository is the source code for the epic length [Build Youtube in React](
 **[Please watch the demo on Youtube](https://www.youtube.com/watch?v=E7wJTI-1dvQ)**
 
 [![Build Youtube in React demo video](http://img.youtube.com/vi/E7wJTI-1dvQ/0.jpg)](http://www.youtube.com/watch?v=E7wJTI-1dvQ)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmikesho90%2Fyoutube-react.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmikesho90%2Fyoutube-react?ref=badge_shield)
 
 # 3 Screenshots
 
@@ -183,3 +184,7 @@ This project is **solely intended for educational purposes** and is created unde
 It is **not intended to create any kind of Youtube competitor**, but to teach advanced concepts in frontend development.
 
 Just see it a nice educational project that will help you to improve your coding skills.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmikesho90%2Fyoutube-react.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmikesho90%2Fyoutube-react?ref=badge_large)
